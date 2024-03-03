@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Mi nombre es Paola E. Bastida</h1>
 <h3 align="center">Soy Tester QA Funcional Jr.</h3>
 
-- 👯 I’m looking to collaborate on **No Country**
+- 👯 I’m collaborating in **No Country**
 
 - 💬 Ask me about **Testing funcional**
 
