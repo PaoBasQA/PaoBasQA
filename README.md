@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es Paola E. Bastida</h1>
-<h3 align="center">Soy Tester QA Funcional Jr.</h3>
+<h3 align="center">Soy Tester QA Funcional.</h3>
 
 - 👯 I’m collaborating in **No Country**
 
