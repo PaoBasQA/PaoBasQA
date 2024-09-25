@@ -20,21 +20,4 @@
   </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="icons.getPathToIcon("icon_32x32@2x.png") alt="cypress" width="40" height="40"/>
-icons = require("@cypress/icons")
-
-## get the absolute path to default favicon
-icons.getPathToFavicon( *filename* )
-icons.getPathToFavicon("favicon-blue.ico")
-## => /Users/.../dist/favicon/favicon-blue.ico
-
-## get the absolute path to tray icon
-icons.getPathToTray( *filename* )
-icons.getPathToTray("mac-normal-red.png")
-## => /Users/.../dist/tray/mac-normal-red.png
-
-## get the absolute path to icon
-icons.getPathToIcon( *filename* )
-icons.getPathToIcon("icon_32x32@2x.png")
-## => /Users/.../dist/icons/icon_32x32@2x.png
-    
-  </a></p>
+icons = require("@cypress/icons")  </a> </p>
