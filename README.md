@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://drive.google.com/file/d/1FBo7hUUF_gjFs8tSuVfPDPzGscxAKHVK/view?usp=drive_link" width="200"/>
+  <img src="https://drive.google.com/file/d/1ELOSBE9zEojsiiS-XZciF_eA1p7ond10/view?usp=drive_link" width="200"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/paola-bastida-qa/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
