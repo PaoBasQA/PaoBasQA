@@ -24,7 +24,7 @@
 
  -------  
  
-### 🔍 Testing Tools :
+### 🕵️‍♀️ Testing Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" **alt="Selenium" width="40" height="40"/>
